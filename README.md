@@ -13,7 +13,7 @@ Install the dependencies
 `pip install -r requirements.txt`
 
 # Inference
-  python **main.py**:
+  python **main.py**
      
 
 
